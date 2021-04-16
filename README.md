@@ -17,7 +17,7 @@ Write a program to output the number of moves to make a bookcase happy. See deta
 
 **Contents:** 
 
-* bookcase.c program reads in a definition file of the initial state of the bookcase and displays the number of moves to make the bookcase happy. argv[1] takes in a definition file from test_files. Optionally argv[2] can take a ‘verbose’ flag to print the bookcase. 
+* bookcase.c program reads in a definition file of the initial state of the bookcase and displays the number of moves to make the bookcase happy. argv[1] takes in a definition file from test_files. Optionally argv[2] can take ‘verbose’ to print the bookcase. 
 
 * extension.c extends the bookcase.c program to print the bookcase in color and improves the algorithm to remove duplicates when searching for the solution in a breath-first fashion. 
 
