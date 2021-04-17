@@ -42,3 +42,23 @@ See details in exercise 11.1 of https://github.com/csnwc/Exercises-In-C.
 * general contains files for using boolean type and managing memory. 
 
 
+## Turtle Graphics 
+**Brief:** A “turtle” can be instructed around the screen to draw graphics. Implement a recursive descent parser that takes in an instruction program via argv[1]. If the program follows the formal grammar, there is no output. Else, an exit is made. Then, implement an interpreter to draw the turtle movements on the screen via SDL.  
+
+The formal grammar and more details are found in exercise 12.3 of https://github.com/csnwc/Exercises-In-C.
+
+**Contents:** 
+
+* parser.c is the program that parses through the program and validates the formal grammar. 
+
+* interpreter.c extends the parser to draw the instructions on the screen.
+
+* Makefile is an automated tool to compile and run the programs. 
+
+* Stack contains ADT for stack data structure.
+
+* SDL contains supplmenetary files to render SDL on the screen.
+
+* general contains files for using boolean type and managing memory. 
+
+
