@@ -27,3 +27,17 @@ Write a program to output the number of moves to make a bookcase happy. See deta
 
 * simple_screen contains supplementary files to display graphics on the screen. 
 
+
+## Polymorphic Hashing 
+
+**Brief:** Implement polymorphic hashing in C. The keys and values will be of unknown type and the hash table must be resizable. 
+
+See more in exercise 11.1 of https://github.com/csnwc/Exercises-In-C.
+
+**Contents:**
+
+* realloc contains the ADT for double-hashing. specific.h has the custom data structure, assoc.h has the method descriptions and realloc.c has the implementation. 
+
+* general contains files for using boolean type and managing memory. 
+
+
