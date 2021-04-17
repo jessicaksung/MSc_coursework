@@ -55,10 +55,17 @@ The formal grammar and more details are found in exercise 12.3 of https://github
 
 * Makefile is an automated tool to compile and run the programs. 
 
-* Stack contains ADT for stack data structure.
+* stack contains ADT for stack data structure.
 
 * SDL contains supplmenetary files to render SDL on the screen.
 
 * general contains files for using boolean type and managing memory. 
+
+
+## Data Management System
+
+**Brief:**
+
+**Contents:**
 
 
