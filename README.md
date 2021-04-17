@@ -80,7 +80,7 @@ The formal grammar and more details are found in exercise 12.3 of https://github
 
 * DBEntity.java is the entity or row of data.
 
-*DBFileSystem.java is the system to read and write files and translate data between files and the database.
+* DBFileSystem.java is the system to read and write files and translate data between files and the database.
 
 * DBTokenizer.java is the processor to break query requests into token to parse through.
 
