@@ -53,8 +53,6 @@ The formal grammar and more details are found in exercise 12.3 of https://github
 
 * interpreter.c extends the parser to draw the instructions on the screen.
 
-* Makefile is an automated tool to compile and run the programs. 
-
 * stack contains ADT for stack data structure.
 
 * SDL contains supplmenetary files to render SDL on the screen.
