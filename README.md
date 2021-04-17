@@ -13,7 +13,8 @@ Some files were provided by the instructors of the courses. These include files 
 * A book must move to the rightmost on its new shelf
 * Each shelf has a maximum capacity of books 
 
-Write a program to output the number of moves to make a bookcase happy. See details in exercise 7.3 of https://github.com/csnwc/Exercises-In-C.
+Write a program to output the number of moves to make a bookcase happy. 
+See details in exercise 7.3 of https://github.com/csnwc/Exercises-In-C.
 
 **Contents:** 
 
@@ -32,7 +33,7 @@ Write a program to output the number of moves to make a bookcase happy. See deta
 
 **Brief:** Implement polymorphic hashing in C. The keys and values will be of unknown type and the hash table must be resizable. 
 
-See more in exercise 11.1 of https://github.com/csnwc/Exercises-In-C.
+See details in exercise 11.1 of https://github.com/csnwc/Exercises-In-C.
 
 **Contents:**
 
