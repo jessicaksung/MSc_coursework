@@ -64,8 +64,33 @@ The formal grammar and more details are found in exercise 12.3 of https://github
 
 ## Data Management System
 
-**Brief:**
+**Brief:** Design and build a relational database server from scratch. The database server can (1) store entity-relationship data via a file system, (2) respond to client query requests and manipulate data accordingly and (3) validate the formal grammar of the query language as defined in the BNF. The database system must allow persistent storage of data and data is stored as TAB separated files.  
 
 **Contents:**
+
+* DBException contains custom exceptions for invalid query requests.
+
+* DBServer.java is the database server.
+
+* DBClient.java is the client that makes and receives queries from the server.
+
+* DBQuery.java is the query output.
+
+* DBTable.java is the data table.
+
+* DBEntity.java is the entity or row of data.
+
+*DBFileSystem.java is the system to read and write files and translate data between files and the database.
+
+* DBTokenizer.java is the processor to break query requests into token to parse through.
+
+* DBParser.java is the parser to validate the formal grammar.
+
+* DBCondition.java is the processor that validates the conditions in query requests.
+
+* DBCommand.java is the abstract class to hold attributes required by query commands. 
+
+* AlterCommand.java, DropCommand.java, UseCommand.java, CreateCommand.java, InsertCommand.java, JoinCommand.java, SelectCommand.java and UpdateCommand.java are the individual query commands.
+
 
 
