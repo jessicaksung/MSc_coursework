@@ -2,7 +2,7 @@
 
 This repository contains assignments completed for MSc Computer Science courses at the University of Bristol. 
 
-Some files were provided by the instructors of the courses. These include files in general, files in simple_screen and files in test_files. 
+Some files were provided by the instructors of the courses. These include files in general, files in simple_screen, files in test_files, files in stack and files in SDL.
 
 ## Happy Bookcases 
 
